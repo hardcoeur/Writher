@@ -1,2 +1,2 @@
 # Writher
-Writher, a Gnome distraction free writer.
+Writher, a distraction free writer for Gnome.
